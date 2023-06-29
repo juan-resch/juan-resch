@@ -6,9 +6,9 @@
 
 🔭 Working on **Raion Tech**
 
-⚡ Skills: React, NextJS and React Native for frontend and Express.js with SQL DBs for backend servers.
+⚡ Skills: React and React Native for frontend and Express.js with SQL DBs for backend servers.
 
-📫 How to reach me: juanresch@gmail.com or Discord: **Juan#5065**
+📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
 
 🐯 Raion website: https://raion.tech
 <!--
