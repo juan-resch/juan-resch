@@ -2,7 +2,7 @@
 
 🙋‍♂️ I’m 21 years old. I’m a fullstack JS developer.
 
-🌱 I’m currently learning **TXTNestJS**
+🌱 I’m currently learning **NestJS**
 
 🔭 Working on **Raion Tech**
 
