@@ -4,13 +4,9 @@
 
 🌱 I’m currently learning **NestJS**
 
-🔭 Working on **Raion Tech**
-
 ⚡ Skills: React and React Native for frontend and Express.js with SQL DBs for backend servers.
 
 📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
-
-🐯 Raion website: https://raion.tech
 
 🙋 My portfolio: https://portfolio-juan-gamma.vercel.app/
 <!--
