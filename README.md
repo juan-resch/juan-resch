@@ -2,13 +2,10 @@
 
 🙋‍♂️ I’m 21 years old. I’m a fullstack JS developer.
 
-🌱 I’m currently learning **NestJS**
-
-⚡ Skills: React and React Native for frontend and Express.js with SQL DBs for backend servers.
+⚡ Skills: React and React Native for frontend and NestJS for backend and microservices.
 
 📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
 
-🙋 My portfolio: https://portfolio-juan-gamma.vercel.app/
 <!--
 **juan-resch/juan-resch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
