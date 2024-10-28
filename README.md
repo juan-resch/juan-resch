@@ -2,10 +2,9 @@
 
 🙋‍♂️ I’m 21 years old. I’m a fullstack JS developer.
 
-⚡ Skills: React and React Native for frontend and NestJS for backend and microservices.
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,typescript,docker,nodejs,postgresql,prisma,javascript,html,css,python,vscode,pycharm)](https://skillicons.dev)
 
 📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
-
 <!--
 **juan-resch/juan-resch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
