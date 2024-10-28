@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Juan, i'm from Rio de Janeiro - Brazil.
 
-🙋‍♂️ I’m 21 years old. I’m a fullstack JS developer.
+🙋‍♂️ I’m 21 years old. I’m a fullstack Node.js developer.
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nestjs,typescript,nextjs,docker,nodejs,postgresql,prisma,javascript,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,react,tailwindcss,nextjs,vite,aws,docker,nodejs,postgresql,prisma,javascript,html,css,vscode,npm,yarn)](https://skillicons.dev)
 
 📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
 <!--
