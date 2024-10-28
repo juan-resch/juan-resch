@@ -2,7 +2,7 @@
 
 🙋‍♂️ I’m 21 years old. I’m a fullstack JS developer.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,typescript,docker,nodejs,postgresql,prisma,javascript,html,css,python,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nestjs,typescript,nextjs,docker,nodejs,postgresql,prisma,javascript,html,css,vscode)](https://skillicons.dev)
 
 📫 How to reach me: juanresch@gmail.com or Discord: **@juanresch**
 <!--
