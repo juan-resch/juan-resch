@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=juan-resch&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github-readme-activity-graph.vercel.app)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=juan-resch&theme=react&show_icons=true&hide_border=true&layout=full&days=45)](https://github-readme-activity-graph.vercel.app)
